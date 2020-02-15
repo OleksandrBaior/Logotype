@@ -272,7 +272,7 @@ box-shadow: -1px 24px 27px 0px rgba(0,0,0,0.29);
   letter-spacing: 0.1px;
   line-height: 18px;
 }
-.about_item_btn{
+.about_item_btn a{
   display: flex;
   justify-content: space-between;
   padding: 0px 28px 40px;
